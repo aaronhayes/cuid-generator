@@ -1,6 +1,6 @@
 # cuid generator
 
-Simple app to generate [https://github.com/ericelliott/cuid](cuids) for development and testing.
+Simple app to generate [cuids](https://github.com/ericelliott/cuid) for development and testing.
 
 Use these cuids at your own risk.
 
